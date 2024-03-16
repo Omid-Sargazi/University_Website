@@ -271,3 +271,12 @@ h3 {
 .testimonil-col .fa {
   color: #f44336;
 }
+
+/* media query */
+
+@media (max-width: 700px) {
+  .testimonil-col img {
+    margin-left: 0;
+    margin-right: 15px;
+  }
+}
